@@ -16,6 +16,7 @@ Using Convolutional Neural Network to Detect Poisonous and Edible Mushrooms
 ## How the model was created 
 * Mushroom_Capstone.ipynb 
   * The references are at the bottom of the notebook
+  * You could also click here [Mushrooms](https://nbviewer.jupyter.org/github/FunCodingPanda/Image_Classification/blob/master/Mushroom_Capstone.ipynb)
 
 ## The Report on the Captone 
 * Final_Capstone_Report.pdf
